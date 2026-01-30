@@ -1,7 +1,7 @@
-# 📌 Nom du projet
+# 📌 Tableau de bord Pointage
 
 ## 📖 Description
-refont du TP Master I de l'application tableau de bord de pointage en A.G.L.
+refont du **TP Master I** de l'application tableau de bord de pointage en A.G.L.
 Ce projet est une application web développée avec le framework **Laravel**.  
 
 ---
@@ -59,3 +59,4 @@ php artisan serve
 
 
 ### Fin
+Thank you 🙏🏾
